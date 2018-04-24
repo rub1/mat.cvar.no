@@ -8,8 +8,8 @@ github_username:  rub1
 
 timezone: Europe/Oslo
 markdown: kramdown
-source: app
-destination: dist
+# source: app
+# destination: dist
 plugins:
   - jekyll-feed
 excerpt_separator: <!--more-->
