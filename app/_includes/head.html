@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Ruben Leikarnes">
+
+	<link rel="dns-prefetch" href="https://i.ytimg.com">
+	<link rel="dns-prefetch" href="https://www.youtube-nocookie.com">
+	<link rel="dns-prefetch" href="//i.imgur.com">
+
+	<!-- Disable tap highlight on IE -->
+	<meta name="msapplication-tap-highlight" content="no">
+
+	<!-- Color the status bar on mobile devices -->
+	<meta name="theme-color" content="#340034">
+
+	<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+	<script async="">
+		{% include scripts/lazysizes.min.js %}
+	</script>
+
+	<style type="text/css">
+		{% capture include_to_scssify %}
+			{% include css/critical.scss %}
+		{% endcapture %}
+		{{ include_to_scssify | scssify }}
+	</style>	
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"></head>
+</head>
+<body>

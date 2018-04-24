@@ -1,0 +1,22 @@
+---
+title: "Arkiv"
+layout: page
+permalink: /archive/
+---
+
+<ol class="post-list grid archive">
+	{% assign items = site.recipies | sort: 'title' %}
+	{% for item in items %}
+		<li>
+			<h2 class="post-title">
+				<a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+			</h2>
+			<p class="post-meta">
+				{{ item.date | date: "%-d %b, %Y" }}  -
+				{% for tag in item.tags %}
+					<a href="/tags/#{{ tag }}">{{ tag }}</a>
+				{% endfor %}
+			</p>
+		</li>
+	{% endfor %}
+</ol>

@@ -1,0 +1,16 @@
+<div class="tags grid">
+	{% assign tags =  site.recipies | map: 'tags' | join: ','  | split: ',' | uniq %}
+	{% assign tags = tags | sort %}
+	{% for tag in tags %}
+		<section class="grid-item" id="{{ tag }}">
+		<h3>{{ tag | capitalize }}</h3>
+		<ul>
+			{% for note in site.recipies %}
+				{% if note.tags contains tag %}
+					<li><a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		</section>
+	{% endfor %}
+</div>

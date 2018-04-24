@@ -1,0 +1,20 @@
+.post {
+	max-width: 960px;
+
+	&-title {
+		margin-bottom: $default-size/2;
+	}
+
+	&-meta {
+		margin-top: 0;
+	}
+}
+
+.archive {
+	margin-top: $default-size + $default-size/3;
+	padding-left: $default-size;
+
+	h2 {
+		margin-top: $default-size/2;
+	}
+}

@@ -1,0 +1,45 @@
+title: Mat
+email: mat@cvar.no
+description: Just a collection of recipies i have found or gotten from others
+baseurl: ""
+url: "http://mat.cvar.no"
+twitter_username: rubix
+github_username:  rub1
+
+timezone: Europe/Oslo
+markdown: kramdown
+source: app
+destination: dist
+plugins:
+  - jekyll-feed
+excerpt_separator: <!--more-->
+sass:
+  style: compressed
+exclude:
+  - .sass-cache
+  - mat.sublime-project
+  - mat.sublime-workspace
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+  recipies:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "recipies"
+    values:
+      layout: "food"
+

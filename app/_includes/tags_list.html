@@ -1,0 +1,8 @@
+<ul class="tags grid-fourth">
+	{% assign tags =  site.recipies | map: 'tags' | join: ','  | split: ',' | uniq %}
+	{% assign tags = tags | sort %}
+	{% for tag in tags %}
+		<li><a href="#{{ tag }}">{{ tag | capitalize }}</a></li>
+	{% endfor %}
+	</ul>
+</ul>

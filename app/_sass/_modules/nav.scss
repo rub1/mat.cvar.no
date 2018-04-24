@@ -1,0 +1,55 @@
+@mixin border-fade-in($name, $start, $end) {
+	@keyframes animation-#{$name} {
+		from {
+			border-bottom-color: $start;
+		}
+		to {
+			border-bottom-color: $end;
+		}
+	}
+}
+.nav {
+	background: $purple;
+	color: $white;
+	line-height: 1;
+
+	&-link {
+		color: $white;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+
+	&-title {
+		vertical-align: middle;
+		font-size: 2rem;
+		display: inline-block;
+		margin: 0;
+		font-weight: 800;
+
+		.nav-item {
+			padding: 1rem 1.5rem;
+		}
+	}
+
+	&-item {
+		display: inline-block;
+		vertical-align: middle;
+		padding: 1.5rem;
+		transition: 0.15s ease-in background;
+
+		&:hover {
+			color: $white;
+			background: lighten($purple, 10%);
+		}
+	}
+
+	&-active {
+		background: lighten($purple, 5%);
+	}
+
+	.island {
+		margin-bottom: 0;
+	}
+}

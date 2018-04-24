@@ -1,0 +1,22 @@
+h1 {
+	font-size: 2.25rem;
+}
+
+a {
+	color: $purple;
+	text-decoration: none;
+	transition: 0.3s ease-in color;
+	-webkit-text-decoration-skip: ink;
+	text-decoration-skip: ink;
+	text-decoration-skip-ink: auto;
+
+	&:hover {
+		text-decoration: underline;
+		color: $black;
+	}
+}
+
+:target {
+	transition: 0.1s ease-in background;
+	background: darken($white, 5%);
+}

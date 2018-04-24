@@ -1,0 +1,8 @@
+<nav class="nav">
+	<div class="island clearfix">
+		<h1 class="nav-title left"><a href="/" class="nav-item nav-link">Mat</a></h1>
+{%- for item in site.data.navigation %}
+		<a href="{{ item.link }}" class="nav-item nav-link {% if item.link == page.url %}nav-active{% endif %} {% if item.float %} {{ item.float }} {% endif %}">{{ item.name }}</a>
+{%- endfor %}
+	</div>
+</nav>

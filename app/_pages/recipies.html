@@ -1,0 +1,35 @@
+---
+title: "Recipies"
+layout: page
+permalink: /
+---
+
+<div class="post-list grid">
+	{% for post in site.recipies reversed %}
+		<section class="post grid-item">
+			<h1 class="post-title">
+				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</h1>
+
+			{% include date_tags.html %}
+
+			{% if post.youtube %}
+				{% assign ytid = post.youtube | remove: 'https://www.youtube.com/watch?v=' %}
+				<a href="{{ post.url | prepend: site.baseurl }}">
+					<img data-src="https://i.ytimg.com/vi_webp/{{ ytid }}/maxresdefault.webp" alt="{{ post.title}}" class="post-image lazyload">
+				</a>
+			{% elsif post.imgur %}
+				{% assign imgurid = post.imgur | remove: 'http://i.imgur.com/' | remove: '.gifv' %}
+				<a href="{{ post.url | prepend: site.baseurl }}">
+					<img data-src="//i.imgur.com/{{ imgurid }}.webp" alt="{{ post.title}}" class="post-image lazyload">
+				</a>
+			{% elsif post.image %}
+				<a href="{{ post.url | prepend: site.baseurl }}">
+					<img data-src="{{ post.image }}" alt="{{ post.title}}" class="post-image lazyload">
+				</a>
+			{% endif %}
+
+			{{ post.content | markdownify }}
+		</section>
+	{% endfor %}
+</div>

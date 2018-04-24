@@ -1,0 +1,12 @@
+- link: /tags/
+  name: Tags
+  float: left
+- link: /videos/
+  name: Videoer
+  float: left
+- link: /archive/
+  name: Arkiv
+  float: left
+- link: /about/
+  name: Om
+  float: right
