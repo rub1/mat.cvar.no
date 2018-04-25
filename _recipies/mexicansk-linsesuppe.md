@@ -3,6 +3,7 @@ title: "Mexicansk linsesuppe"
 date: 2017-03-18
 tags: mexicansk suppe
 image: /img/mexicansk-linsesuppe.webp
+source: https://spiselandslaget.com/2016/09/01/mexicansk-linsesuppe-med-spice-og-mais/
 ---
 
 Bilde tilhører [Maj-Britt Aagaard](https://spiselandslaget.com/2016/09/01/mexicansk-linsesuppe-med-spice-og-mais/)
@@ -39,5 +40,3 @@ La det hele koke under lokk til gulrot og linser er helt møre. Det tar ca 20 mi
 Purer suppa med stavmikser. Juster smaken med salt, og eventuelt mer sukker eller limesaft. Ha maisen i suppa og la det hele koke opp så det blir gjennomvarmt.
 
 Server suppa med en rømmeklatt, et dryss frisk koriander og finhakket vårløk. Og du, det er sikkert kjempegodt med noen knuste tortillachips på toppen også.
-
-[spiselandslaget.com](https://spiselandslaget.com/2016/09/01/mexicansk-linsesuppe-med-spice-og-mais/)

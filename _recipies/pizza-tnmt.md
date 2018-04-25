@@ -3,6 +3,7 @@ title: "New York-Style Pizza (Binging With Babish)"
 date: 2016-04-30
 tags: amerikansk pizza
 youtube: https://www.youtube.com/watch?v=KUu2gJn1dzc
+source: https://www.bingingwithbabish.com/recipes/2017/5/16/new-york-style-pizza-inspired-by-tmnt-ii-secret-of-the-ooze?rq=pizza
 ---
 
 - 16 ounces bread flour, plus more for dusting
@@ -29,5 +30,3 @@ youtube: https://www.youtube.com/watch?v=KUu2gJn1dzc
 
 4. Dust a pizza peel with half of the semolina flour. Generously flour a work surface and place one of the doughs on top. Pressing gently using your fingertips, push the dough out to form a disc, leaving the edge slightly thicker.  Once the dough is about 8 inches wide, pick it up and drape it over your knuckles, letting gravity stretch out the dough. Pass the dough hand-over-hand, until it’s stretched into about a 14-inch round. Place the dough on a pizza peel and reshape into a circle, if needed, leaving the edge slightly thicker. Ladle about ½ cup of sauce onto the dough and spread around until evenly coated. Scatter half of the mozzarella over the top, making sure not to get any sauce or cheese on the edge of the dough crust. Slide the pizza onto the preheated pizza stone and bake until the crust is well browned and the cheese is bubbly and browned in spots, about 12 minutes. Use the pizza peel to remove the pie and transfer to a large cutting board or pizza pan. Slice into 6 pieces and serve.
 
-[youtube](https://www.youtube.com/watch?v=KUu2gJn1dzc) - 
-[bingingwithbabish.com](https://www.bingingwithbabish.com/recipes/2017/5/16/new-york-style-pizza-inspired-by-tmnt-ii-secret-of-the-ooze?rq=pizza)

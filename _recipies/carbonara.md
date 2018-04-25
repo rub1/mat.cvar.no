@@ -1,6 +1,7 @@
 ---
 title: "Bucatini Carbonara"
 youtube: https://www.youtube.com/watch?v=2JYub2JxoDo
+source: https://www.bonappetit.com/recipe/the-silkiest-carbonara
 date: 2018-04-17
 tags: italiensk pasta
 ---
@@ -22,5 +23,3 @@ Meanwhile, cook pasta in a large pot of boiling salted water, stirring occasiona
 Immediately add rigatoni, 2 Tbsp. pasta cooking liquid, and 1 tsp. guanciale drippings to egg mixture; toss to coat. Working in 3 batches, gradually add ? cup Pecorino, stirring and tossing to melt between batches. Add 2 tsp. black pepper; toss until sauce thickens, adding more pasta water by tablespoonfuls if needed. Season with salt and pepper.
 
 Divide among bowls. Garnish with Pecorino.
-
-[bonappetit.com](https://www.bonappetit.com/recipe/the-silkiest-carbonara)

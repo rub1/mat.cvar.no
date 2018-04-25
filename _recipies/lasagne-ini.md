@@ -3,6 +3,10 @@ title: "Lasagna with baby spinach and béchamel sauce"
 date: 2018-04-22
 tags: italiensk lasagne
 image: https://i.redd.it/1xae6p4buft01.jpg
+source: 
+  - http://cookwithtini.com/2018/04/22/worlds-best-lasagna/
+  - https://www.reddit.com/r/recipes/comments/8e2hbb/lasagna_with_baby_spinach_and_b%C3%A9chamel_sauce/
+
 ---
 
 ### Bolognese sauce:
@@ -40,7 +44,3 @@ image: https://i.redd.it/1xae6p4buft01.jpg
 - Salt & pepper.
 - 1 bunch fresh parsley.
 - 1 bunch fresh basil.
-
-
-[cookwithini.com](http://cookwithtini.com/2018/04/22/worlds-best-lasagna/)
-[reddit post](https://www.reddit.com/r/recipes/comments/8e2hbb/lasagna_with_baby_spinach_and_b%C3%A9chamel_sauce/)

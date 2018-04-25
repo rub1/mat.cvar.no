@@ -3,6 +3,8 @@ title: "Chickpea curry"
 date: 2017-04-11
 tags: curry
 imgur: http://i.imgur.com/hpMnPKj.gifv
+source: 
+  - https://www.reddit.com/r/GifRecipes/comments/5j1kuj/hearty_chickpea_curry/
 ---
 
 ## Ingredients
@@ -43,5 +45,3 @@ imgur: http://i.imgur.com/hpMnPKj.gifv
 12. Serve with basmati rice & garnish with broken popadoms & coriander (cilantro)
 
 
-[imgur](http://i.imgur.com/hpMnPKj.gifv) 
-[reddit](https://www.reddit.com/r/GifRecipes/comments/5j1kuj/hearty_chickpea_curry/)

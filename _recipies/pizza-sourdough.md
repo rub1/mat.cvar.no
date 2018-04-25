@@ -45,4 +45,3 @@ youtube: https://www.youtube.com/watch?v=HXAW2GseICs
 - Stek under grillen i steikovn i 2-3 min
 - Topp med oregano og olivenolje
 
-[youtube](https://www.youtube.com/watch?v=HXAW2GseICs)

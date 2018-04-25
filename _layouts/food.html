@@ -21,7 +21,21 @@ layout: default
 
 	{{ content }}
 
+	<h3>Links</h3>
+
+	<ul>
+	{%- if page.youtube -%}
+		<li><a href="{{ page.youtube }}">youtube</a></li>
+	{%- endif -%}
+	{%- if page.source -%}
+		{% for link in post.source %}
+			<li><a href="{{ link }}">source</a></li>
+		{% endfor %}</p>
+	{%- endif -%}
+	</ul>
+
 	<h3>Relaterte oppskrifter</h3>
 
 	{% include related_food.html %}
 </div>
+

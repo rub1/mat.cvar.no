@@ -3,6 +3,7 @@ title: "Dutch baby"
 date: 2017-03-18
 tags: frokost
 youtube: https://www.youtube.com/watch?v=fRqXRo8Bp3U
+source: https://www.youtube.com/watch?v=2sxZ4q2czBM
 ---
 
 - 4 egg
@@ -14,6 +15,3 @@ youtube: https://www.youtube.com/watch?v=fRqXRo8Bp3U
 - parmesan
 
 225C 20-25min
-
-[youtube](https://www.youtube.com/watch?v=fRqXRo8Bp3U) 
-[youtube 2](https://www.youtube.com/watch?v=2sxZ4q2czBM)

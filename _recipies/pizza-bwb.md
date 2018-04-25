@@ -3,6 +3,7 @@ title: "Pizza (Basics with Babish)"
 date: 2018-02-08
 tags: pizza italiensk
 youtube: https://www.youtube.com/watch?v=7cqYiUmutGI
+source: https://basicswithbabish.co/new-blog/2017/10/23/sauces-9w5tm-2njph-5ahwj-hsl7s-fh6cr-dfapr
 ---
 
 Grocery List:
@@ -31,6 +32,3 @@ Other ingredients:
 Special equipment:
 - Blender
 - Pizza peel
-
-[youtube](https://www.youtube.com/watch?v=7cqYiUmutGI) 
-[basicswithbabish.co](https://basicswithbabish.co/new-blog/2017/10/23/sauces-9w5tm-2njph-5ahwj-hsl7s-fh6cr-dfapr)
