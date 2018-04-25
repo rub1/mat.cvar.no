@@ -1,5 +1,11 @@
 # README
 
+## Jonas ønskeliste
+- hjemmelaga pizzasaus
+- gyros
+- chili con carne 
+- tika masala
+
 [youtube video thumbnail images](https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api):
 
 ```
@@ -14,10 +20,3 @@ imgur gifv
 </video>
 ```
 
-Maybe for later use
-
-```html
-{% if post.cover %}
-	<img src="/photos/webp/{{ post.cover }}.webp" alt="{{ post.title}}" class="post-image">
-{% endif %}
-```

@@ -20,9 +20,7 @@
 }
 
 .grid-fourth {
-	$local-width: ($default-width/4)-$default-size;
-	display: grid;
-	grid-template-columns: $local-width $local-width $local-width $local-width;
-	grid-column-gap: $default-size*2;
-	// grid-template-rows: auto;
+	column-count: 4;
+	column-width: 25%;
+	column-gap: $default-size*2 + 2px;
 }
