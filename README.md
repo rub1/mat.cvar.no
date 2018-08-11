@@ -1,6 +1,10 @@
 # README
 
-## Jonas ønskeliste
+## Fremtidige oppskrifter
+
+- Hjemmelaget hamburger dressing (hobbykokken og inn'n'out)
+
+### Jonas ønskeliste
 - hjemmelaga pizzasaus
 - gyros
 - chili con carne 
