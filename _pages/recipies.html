@@ -29,7 +29,9 @@ permalink: /
 				</a>
 			{% endif %}
 
-			{{ post.content | markdownify }}
+			{{ post.excerpt | markdownify }}
+
+			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more →</a>
 		</section>
 	{% endfor %}
 </div>

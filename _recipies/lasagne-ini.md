@@ -2,9 +2,9 @@
 title: "Lasagna with baby spinach and béchamel sauce"
 date: 2018-04-22
 tags: italiensk lasagne pasta
-image: https://i.redd.it/1xae6p4buft01.jpg
+image: https://i.imgur.com/RHSVNoK.jpg
 source: 
-  - http://cookwithtini.com/2018/04/22/worlds-best-lasagna/
+  - http://cookwithtini.com/worlds-best-lasagna/
   - https://www.reddit.com/r/recipes/comments/8e2hbb/lasagna_with_baby_spinach_and_b%C3%A9chamel_sauce/
 ---
 
