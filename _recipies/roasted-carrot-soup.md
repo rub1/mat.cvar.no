@@ -6,7 +6,6 @@ imgur: https://i.imgur.com/DrHGdv4.gifv
 source: 
   - https://www.reddit.com/r/GifRecipes/comments/6m20nl/roasted_carrot_soup/djy9r11/
   - https://jessicainthekitchen.com/roasted-carrot-soup-vegan-gluten-free-easy/
-  - https://www.youtube.com/watch?v=tSSMZj1BmKE
 ---
 
 ## Ingredients
