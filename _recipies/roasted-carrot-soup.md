@@ -22,7 +22,7 @@ source:
 - juice of one medium sized lime
 - 3/4 teaspoon sea salt
 
-###Optional
+### Optional
 
 - 1 teaspoon turmeric
 - More ginger if desired
