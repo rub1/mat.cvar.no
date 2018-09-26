@@ -2,7 +2,7 @@
 title: "Chickpea curry"
 date: 2017-04-11
 tags: curry
-imgur: http://i.imgur.com/hpMnPKj.gifv
+imgur: https://i.imgur.com/hpMnPKj.gifv
 source: 
   - https://www.reddit.com/r/GifRecipes/comments/5j1kuj/hearty_chickpea_curry/
 ---
