@@ -11,7 +11,7 @@ layout: default
 		{% assign ytid = page.youtube | remove: 'https://www.youtube.com/watch?v=' %}
 		<iframe width="960" height="540" data-src="https://www.youtube-nocookie.com/embed/{{ ytid }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="lazyload"></iframe>
 	{% elsif page.imgur %}
-		{% assign imgurid = page.imgur | remove: 'http://i.imgur.com/' | remove: '.gifv' %}
+		{% assign imgurid = page.imgur | remove: 'https://i.imgur.com/' | remove: '.gifv' %}
 		<video loop controls>
 			<source src="//i.imgur.com/{{ imgurid }}.mp4" type="video/mp4">
 		</video>
