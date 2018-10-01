@@ -1,7 +1,7 @@
 ---
 title: "Coconut-Curry Braised Chicken Thighs"
 date: 2018-10-01
-tags: Asiatisk
+tags: asiatisk
 image: https://i.imgur.com/J3MVyiF.jpg
 source: 
   - https://www.bonappetit.com/recipe/coconut-curry-braised-chicken-thighs
