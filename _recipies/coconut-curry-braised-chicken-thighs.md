@@ -2,7 +2,7 @@
 title: "Coconut-Curry Braised Chicken Thighs"
 date: 2018-10-01
 tags: aisatisk
-image: blob:https://imgur.com/60d44274-15d4-4d18-aef6-9a530f455f83
+image: https://i.imgur.com/J3MVyiF.jpg
 source: 
   - https://www.bonappetit.com/recipe/coconut-curry-braised-chicken-thighs
 ---
