@@ -2,10 +2,11 @@
 title: "Cesar Salad"
 date: 2018-04-24
 tags: salat dressing
-youtube: https://www.youtube.com/watch?v=ZwAfROUJIPE
+youtube: https://www.youtube.com/watch?v=tSSMZj1BmKE
 source: 
   - https://www.bonappetit.com/recipe/classic-caesar-salad
   - https://www.youtube.com/watch?v=uyB_GZNpCQE
+  - https://www.youtube.com/watch?v=tSSMZj1BmKE
 ---
 
 ## The Dressing
