@@ -1,5 +1,12 @@
 # README
 
+## Run local dev environment
+
+```
+bundle install
+bundle exec jekyll serve
+```
+
 ## Fremtidige oppskrifter
 
 - Hjemmelaget hamburger dressing (hobbykokken og inn'n'out)
