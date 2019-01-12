@@ -5,33 +5,33 @@ layout: default
 <div class="post">
 	<h1 class="post-title">{{ page.title }}</h1>
 
-	{% include date_tags.html %}
+	{% include date_tags.html -%}
 
-	{% if page.youtube %}
-		{% assign ytid = page.youtube | remove: 'https://www.youtube.com/watch?v=' %}
+	{%- if page.youtube -%}
+		{%- assign ytid = page.youtube | remove: 'https://www.youtube.com/watch?v=' -%}
 		<iframe width="960" height="540" data-src="https://www.youtube-nocookie.com/embed/{{ ytid }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen class="lazyload"></iframe>
-	{% elsif page.imgur %}
-		{% assign imgurid = page.imgur | remove: 'https://i.imgur.com/' | remove: '.gifv' %}
+	{%- elsif page.imgur -%}
+		{%- assign imgurid = page.imgur | remove: 'https://i.imgur.com/' | remove: '.gifv' -%}
 		<video loop controls>
 			<source src="//i.imgur.com/{{ imgurid }}.mp4" type="video/mp4">
 		</video>
-	{% elsif page.image %}
+	{%- elsif page.image -%}
 		<img data-src="{{ page.image }}" alt="{{ page.title}}" class="post-image lazyload">
-	{% endif %}
+	{%- endif -%}
 
 	{{ content }}
 
 	<h3>Links</h3>
 
 	<ul>
-	{%- if page.youtube -%}
+	{%- if page.youtube %}
 		<li><a href="{{ page.youtube }}">youtube</a></li>
 	{%- endif -%}
 	{%- if page.source -%}
-		{% for link in post.source %}
-			<li><a href="{{ link }}">source</a></li>
-		{% endfor %}</p>
-	{%- endif -%}
+		{%- for link in post.source %}
+		<li><a href="{{ link }}">source</a></li>
+		{%- endfor -%}
+	{% endif %}
 	</ul>
 
 	<h3>Relaterte oppskrifter</h3>
