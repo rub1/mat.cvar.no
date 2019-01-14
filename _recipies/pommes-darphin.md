@@ -11,7 +11,8 @@ A giant rosti or latke or potato pancake...whatever you want to call it, this is
 
 ## Ingredients
 
-for the pickled jalapenos and shallots:
+### for the pickled jalapenos and shallots:
+
 - 4 1/3 cups|950 grams filtered water
 - 2 cups|450 grams unseasoned grain vinegar
 - 2/3 cup|100 grams kosher salt
@@ -19,19 +20,22 @@ for the pickled jalapenos and shallots:
 - 3 jalapenos
 - 2 medium peeled shallots
 
-for the Darphin:
-- 600 grams frying potatoes, such as a Kennebec, peeled
+### for the Darphin:
+
+s- 600 grams frying potatoes, such as a Kennebec, peeled
 - kosher salt and freshly ground pepper
 - 1 cup|150 grams clarified butter or ghee
 
-for the assembly:
+### for the assembly:
+
 - 2 1/2 ounces|75 grams pickled jalapeños, finely chopped
 - 2 1/2 ounces|75 grams pickled shallots, finely chopped
 - 1 tablespoon|15 grams yuzu kosho
 - 100 grams uni (preferably from Hokkaido or Maine)
 - flaky sea salt
 
-Directions
+## Directions
+
 1. Make the pickled jalapenos and shallots: Combine the water, vinegar, salt, and sugar in a medium pot and bring to a boil. Let cool to room temperature and pour over the jalapenos and shallots. Cover and refrigerate. Let sit at least 24 hours and up to 2 weeks.
 2. For the Darphin: Slice each potato lengthwise into slices about ⅛ inch (3 mm) thick, then again lengthwise into strips ⅛ inch (3 mm) wide. (You should have a pile of matchstick-like pieces—they don’t need to be perfect, irregularity is okay here.) Season the potatoes with salt and pepper. Don’t worry about squeezing the liquid from them unless you are doing this in advance and have a lot of liquid that’s leached out.
 3. Heat half of the clarified butter in an 8-inch (20 cm) nonstick frying pan (preferably one with high sides) over medium heat. Add the potatoes and use a spatula to tuck the edges in, creating sides all around in a hockey puck shape about 1¼ inches (3 cm) tall. Keep cooking, rotating the pan occasionally to prevent hot spots, and continue to tuck in the edges, preventing stray pieces of potatoes from escaping and creating a clearly defined edge.
