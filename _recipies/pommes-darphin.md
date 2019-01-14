@@ -2,7 +2,7 @@
 title: "Pommes Darphin, Uni, and Jalapeño Recipe"
 date: 2019-01-13
 tags: potet
-youtube: https://www.youtube.com/watch?v=vzW0N5ucKRI&t=0s
+youtube: https://www.youtube.com/watch?v=vzW0N5ucKRI
 source: 
   - https://munchies.vice.com/en_us/article/mbyenv/pommes-darphin-uni-and-jalapeno-recipe
 ---
