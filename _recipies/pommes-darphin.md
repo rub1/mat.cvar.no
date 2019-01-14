@@ -22,7 +22,7 @@ A giant rosti or latke or potato pancake...whatever you want to call it, this is
 
 ### for the Darphin:
 
-s- 600 grams frying potatoes, such as a Kennebec, peeled
+- 600 grams frying potatoes, such as a Kennebec, peeled
 - kosher salt and freshly ground pepper
 - 1 cup|150 grams clarified butter or ghee
 
