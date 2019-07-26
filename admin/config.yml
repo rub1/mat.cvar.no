@@ -12,7 +12,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "food"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Tags", name: "tags", widget: "List"}
+      - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Featured Image", name: "thumbnail", widget: "string"}
       - {label: "Source", name: "source", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
