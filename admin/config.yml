@@ -12,9 +12,9 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "food"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Tags", name: "tags", widget: "list", field: {label: Tag, name: tag, widget: string}}
+      - {label: "Tags", name: "tags", widget: "text"}
       - {label: "Featured Image", name: "thumbnail", widget: "string"}
-      - {label: "Source", name: "source", widget: "list", field: {label: Link, name: link, widget: string}}
+      - {label: "Source", name: "source", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages"
