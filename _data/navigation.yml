@@ -1,9 +1,6 @@
 - link: /tags/
   name: Tags
   float: left
-- link: /videos/
-  name: Videoer
-  float: left
 - link: /archive/
   name: Arkiv
   float: left

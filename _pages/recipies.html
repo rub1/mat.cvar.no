@@ -18,12 +18,16 @@ permalink: /
 				<a href="{{ post.url | prepend: site.baseurl }}">
 					<img data-src="https://i.ytimg.com/vi_webp/{{ ytid }}/maxresdefault.webp" alt="{{ post.title}}" class="post-image lazyload">
 				</a>
-			{% elsif post.imgur %}
+			{% endif %}
+
+			{% if post.imgur %}
 				{% assign imgurid = post.imgur | remove: 'https://i.imgur.com/' | remove: '.gifv' %}
 				<a href="{{ post.url | prepend: site.baseurl }}">
 					<img data-src="//i.imgur.com/{{ imgurid }}.webp" alt="{{ post.title}}" class="post-image lazyload">
 				</a>
-			{% elsif post.image %}
+			{% endif %}
+
+			{% if post.image %}
 				<a href="{{ post.url | prepend: site.baseurl }}">
 					<img data-src="{{ post.image }}" alt="{{ post.title}}" class="post-image lazyload">
 				</a>
